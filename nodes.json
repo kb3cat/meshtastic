@@ -1,5 +1,5 @@
 {
-  "updated": 1773072020,
+  "updated": 1773073126,
   "nodes": [
     {
       "id": "!ea067c10",
@@ -9,6 +9,51 @@
       "lon": -76.5940688,
       "altitude": 7968,
       "last_heard": 1773072019
+    },
+    {
+      "id": "!c5f476f5",
+      "long_name": "",
+      "short_name": "",
+      "lat": 39.9495168,
+      "lon": -76.6840832,
+      "altitude": 148,
+      "last_heard": 1773072076
+    },
+    {
+      "id": "!0407d0b0",
+      "long_name": "",
+      "short_name": "",
+      "lat": 40.1342464,
+      "lon": -77.201408,
+      "altitude": 176,
+      "last_heard": 1773072813
+    },
+    {
+      "id": "!7ab85dec",
+      "long_name": "",
+      "short_name": "",
+      "lat": 40.0293888,
+      "lon": -76.3625472,
+      "altitude": 117,
+      "last_heard": null
+    },
+    {
+      "id": "!9e078044",
+      "long_name": "",
+      "short_name": "",
+      "lat": 40.239104,
+      "lon": -77.201408,
+      "altitude": 149,
+      "last_heard": 1773072798
+    },
+    {
+      "id": "!6985c210",
+      "long_name": "",
+      "short_name": "",
+      "lat": 39.97696,
+      "lon": -76.7819776,
+      "altitude": 129,
+      "last_heard": 1773073126
     }
   ]
 }
