@@ -59,7 +59,12 @@ markers[node.id].setLatLng([node.lat,node.lon]);
 
 markers[node.id] = L.marker([node.lat,node.lon])
 .addTo(map)
-.bindPopup(node.id);
+.bindPopup(
+  `<b>${node.long_name || node.short_name || node.id}</b><br>
+   ID: ${node.id}<br>
+   Lat: ${node.lat}<br>
+   Lon: ${node.lon}`
+);
 
 }
 
